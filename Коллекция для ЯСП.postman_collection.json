@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "c4ec6f99-ea66-4edf-81c7-e1563bd1e4bd",
+		"name": "Коллекция для ЯСП",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Все ресурсы",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Специфические ресурсы",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Схема",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
